@@ -1,0 +1,4 @@
+<resources>
+    <dimen name="textView_width">48dp</dimen>
+    <dimen name="textView_height">48dp</dimen>
+</resources>
